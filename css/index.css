@@ -1,0 +1,15 @@
+@import url(common/header.css);
+@import url(common/footer.css);
+@import url(section.css);
+
+.w1200{
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.p40{
+  padding: 40px 23px;
+  box-sizing: border-box;
+}
+a{
+  text-decoration: none;
+}
